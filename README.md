@@ -21,7 +21,7 @@ To work on this knowledge base locally:
 1. Install Python 3.x
 2. Install dependencies:
    ```bash
-   pip install mkdocs-material
+   pip install -r requirements.txt
    ```
 3. Run the development server:
    ```bash
