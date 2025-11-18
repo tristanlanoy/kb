@@ -16,4 +16,4 @@ The hub forwards the shortcut reply to Spoke 1.
 
 Spoke 1 and Spoke 2 initiate the tunnel IKE negotiation with the IP address of Spoke 2 sent to ADVPN.
 
-![AD-VPN Diagram](ad-vpn.png)
+![AD-VPN Diagram](img/ad-vpn.png)
