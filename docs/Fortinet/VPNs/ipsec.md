@@ -18,7 +18,7 @@
 
 ### Tunnel details
 
-`get vpn ipsec tunnel details``
+`get vpn ipsec tunnel details`
 ![IPsecSA-Slide2](img/ipsec_2.png)
 
 ### Common issues

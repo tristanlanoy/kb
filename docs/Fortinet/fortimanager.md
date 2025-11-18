@@ -21,4 +21,5 @@ diag debug service dvmdb 255
 
 diag debug application dmworker 255
 
-diag debug enable ```
+diag debug enable
+```

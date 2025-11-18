@@ -35,7 +35,8 @@ diag debug application fgfmsd 255
 ```fortios
 diagnose debug cli 8
 diag debug application fgfmd 255
-diag debug enable ```
+diag debug enable
+```
 
 ## Packets
 
