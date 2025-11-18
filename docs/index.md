@@ -1,4 +1,4 @@
-# Welcome to My Knowledge Base
+# Home
 
 This is my personal tech knowledge base where I document and organize my technical knowledge.
 

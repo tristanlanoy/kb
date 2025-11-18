@@ -1,7 +1,7 @@
 # Fortigate IPSEC debug
 
-> [!POLICY]
-> DO YOU HAVE A POLICY ALLOWING VPN TO GO UP ?
+!!! tip
+    DO YOU HAVE A POLICY ALLOWING VPN TO GO UP ?
 
 ## Security
 
