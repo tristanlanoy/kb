@@ -36,3 +36,18 @@ diag debug application fgfmsd 255
 diagnose debug cli 8
 diag debug application fgfmd 255
 diag debug enable ```
+
+## Packets
+
+### Sniffer
+
+`diagnose sniffer packet any "" 4 ? a/l`
+
+### Filter
+
+```fortios
+diagnose debug flow filter <filter> <-- Can be used multiple times
+diagnos debug enable
+diagnose debug flow trace start xxx
+diagnose debug flow trace stop
+```
