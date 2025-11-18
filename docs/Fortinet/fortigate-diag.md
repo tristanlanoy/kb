@@ -44,7 +44,7 @@ diag debug enable
 
 `diagnose sniffer packet any "" 4 ? a/l`
 
-### Filter
+### Flow
 
 ```fortios
 diagnose debug flow filter <filter> <-- Can be used multiple times
