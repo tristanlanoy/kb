@@ -29,6 +29,10 @@ theme:
 plugins:
   - search
 
+nav:
+  - Home: index.md
+  - Getting Started: topics/getting-started.md
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
