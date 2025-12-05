@@ -52,3 +52,14 @@ diagnos debug enable
 diagnose debug flow trace start xxx
 diagnose debug flow trace stop
 ```
+
+## SNMP
+
+### Debug commands
+
+```FortiOS
+diagnose debug disable
+diagnose debug reset
+diagnose test application snmpd -1
+diagnose debug enable 
+```
