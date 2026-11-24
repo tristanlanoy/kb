@@ -23,3 +23,18 @@ diag debug application dmworker 255
 
 diag debug enable
 ```
+## Full diagnose mode
+
+```fortios
+diag debug application securityconsole 255
+diag debug service cdb 255
+diag debug service cmdb 255
+diag debug service dvmcmd 255
+diag debug service dvmdb 255
+diag debug application dmworker 255
+diagnose debug timestamp enable
+diagnose debug dpm conf enable
+diagnose dvm debug enable all
+diagnose debug application depmanager 255
+diag debug enable
+```
